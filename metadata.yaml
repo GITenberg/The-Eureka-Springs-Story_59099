@@ -1,11 +1,16 @@
 _repo: The-Eureka-Springs-Story_59099
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59099-h/images/cover.jpg
 creator:
   author:
     agent_name: Rayburn, Otto Ernest
     gutenberg_agent_id: '50300'
     url: http://www.gutenberg.org/2009/agents/50300
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59099#The-Eureka-Springs-Story
 gutenberg_issued: '2019-03-19'
 gutenberg_type: Text
 identifiers:
